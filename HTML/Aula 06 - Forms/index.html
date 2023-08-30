@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Formulários</title>
+    </head>
+    <body>
+        <form action="mailto:bborgesirs04@gmail.com">
+            <!--Específicar Texto/Números  -->
+            <label for="">Nome</label>
+            <input type="text"> <br>
+
+            <label for="">Telefone</label>
+            <input type="number"> <br>
+
+            <label for="">CEP</label>
+            <input type="number"> <br>
+
+            <!-- Tag Rádio (apenas uma escolha)-->
+            <h4>Escolha uma Música</h4>
+            <input type="radio" name="música">
+            <label for="">Segredo - Kayblack</label> <br>
+
+            <input type="radio" name="música">
+            <label for="">Willy - Tasha e Tracie</label> <br>
+
+            <input type="radio" name="música">
+            <label for="">Engana Dizendo Que Ama - Veigh</label> <br>
+
+            <input type="radio" name="música">
+            <label for="">Lençol - Budah</label>
+
+            <!-- Tag Checbox (múltiplas escolhas) -->
+            <h4>Sabores de Bolo</h4>
+            <input type="checkbox">
+            <label for="">Chocolate</label> <br>
+
+            <input type="checkbox">
+            <label for="">Cenoura</label> <br>
+
+            <input type="checkbox">
+            <label for="">Leite Ninho</label> <br>
+
+            <input type="checkbox">
+            <label for="">Nega Maluca</label> <br> <br>
+
+            <!-- Tag Range (especifícar valores em barra) -->
+            <label for="">05</label>
+            <input type="range">
+            <label for="">100</label> <br> <br>
+
+            <!-- Tag Select (lista pronta - busca por rolagem)-->
+            <label for="">Sorvetes</label>
+            <select name="" id="">
+                <option value="Selecione">Selecione</option>
+                <option value="Chocolate">Chocolate</option>
+                <option value="Morango">Morango</option>
+                <option value="Maracujá">Maracujá</option>
+                <option value="Leite Ninho com Nutella">Leite Ninho com Nutella</option>
+                <option value="Flocos">Flocos</option>
+            </select> <br> <br>
+
+            <!-- Tag Datalist (lista pronta - busca por letra)-->
+            <label for="">Escolha seu Filme</label>
+            <input type="text" list="Filmes">
+            <datalist id="Filmes">
+                <option value="A Culpa é das Estrelas">A Culpa é das Estrelas</option>
+                <option value="Barbie">Barbie</option>
+                <option value="O Rei Leão">O Rei Leão</option>
+                <option value="Amor de Aluguel">Amor de Aluguel</option>
+                <option value="Meninas Malvadas">Meninas Malvadas</option> 
+            </datalist> <br> <br>
+             
+            <!-- Tag Textarea (inserir textos grandes)-->
+            <textarea cols="10" rows="5"></textarea> <br> <br>
+
+            <!-- Tag Fieldset (agrupar informações)-->
+            <fieldset>
+
+                <!-- Tag Legend (dar título)-->
+                <legend>Qual seu filme favorito?</legend>
+
+                <label for="">Romance</label> 
+                <input type="text">
+                <textarea cols="30" rows="10"></textarea>
+            </fieldset> <br>
+
+            <fieldset>
+                <legend>Qual seu filme favorito?</legend>
+                <label for="">Comédia</label>
+                <input type="text">
+                <textarea cols="30" rows="10"></textarea>
+            </fieldset> <br>
+
+            <!-- Tag Required (tornar um campo obrigatório) -->
+            <label for="">Nome</label>
+            <input type="text" required> <br> <br>
+
+            <input type="submit" value="Cadastre-se">
+
+        </form>
+    </body>
+</html>

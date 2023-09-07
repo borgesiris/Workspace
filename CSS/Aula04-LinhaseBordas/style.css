@@ -1,0 +1,18 @@
+#primeiraDiv {
+    border: 2px dashed 	#FF0000;
+}
+
+#segundaDiv {
+    border: 2px dotted #FFD700;
+}
+
+ /*Ajustando Tamanho das imagens*/
+img {
+   width: 500px;
+}
+
+/*Imagem de fundo utilizando atributo background-image*/
+body{
+    background-image: url("./img/Fundo.jpg");
+    background-attachment: scroll;
+}

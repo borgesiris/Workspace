@@ -14,3 +14,14 @@ body {
    p{
     color: #B22222;
    }
+    font-family: 'Indie Flower', cursive;
+    background-color: #FFE4E1;
+h2 {
+    color: #FA8072;
+}
+footer {
+    background-color: 	#FFFFF0;
+}
+p {
+    color: #DC143C;
+}

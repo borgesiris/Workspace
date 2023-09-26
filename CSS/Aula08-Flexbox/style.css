@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+#container {
+    display: flex;
+    /* flex-direction: row-reverse; */
+    flex-wrap: wrap;
+}
+.itens{
+    border: 1px solid #FF1493;
+}
+

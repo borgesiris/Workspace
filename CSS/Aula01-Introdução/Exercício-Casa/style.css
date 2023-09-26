@@ -3,25 +3,28 @@ body {
     font-family: 'Dancing Script', cursive;
    } 
    
-   h2{
+   h2 {
     color: #B22222;
    }
 
-   footer{
+   footer {
     background-color: azure;
    }
 
-   p{
+   p {
     color: #B22222;
-   }
     font-family: 'Indie Flower', cursive;
     background-color: #FFE4E1;
-h2 {
+   }
+   
+    h2 {
     color: #FA8072;
-}
-footer {
-    background-color: 	#FFFFF0;
-}
-p {
+    }
+
+    footer {
+    background-color: #FFFFF0;
+    }
+
+    p {
     color: #DC143C;
-}
+    }

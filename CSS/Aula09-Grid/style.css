@@ -3,7 +3,7 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: auto;
-    grid-template-areas: "div4 div4 div4 ." "completar" "completar";
+    grid-template-areas: "div4 div4 div4 ." "div5 div5 div5 div5" "div8 div8 div8 div8";
 }
 
 .item-1{

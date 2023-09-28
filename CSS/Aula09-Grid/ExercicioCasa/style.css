@@ -1,0 +1,7 @@
+@charset "UTF-8";
+#container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    grid-template-areas: "div2 div2 . .";
+}

@@ -1,0 +1,6 @@
+1: A- 1/12
+2: D- 61
+3: B- 3.240
+4: E- Gado
+5: E- "Nenhum brasileiro gosta de futebol"
+6: B - 24

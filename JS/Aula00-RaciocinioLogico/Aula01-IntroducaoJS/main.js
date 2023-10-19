@@ -1,0 +1,1 @@
+alert // alert ( Mensagegem aleatória);

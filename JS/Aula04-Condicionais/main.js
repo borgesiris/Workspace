@@ -27,9 +27,7 @@ console.clear
 let teraComidaTOTVS = false
 
  // Forma explícita 
-if(!teraComidaTOTVS == true){ //se  - ! (
-    
-    identifica de forma contrária, ou seja, se for "true" e eu usar "!" retornará "false" e dará "else")
+if(!teraComidaTOTVS == true){ //se  - ! (identifica de forma contrária, ou seja, se for "true" e eu usar "!" retornará "false" e dará "else")
     console.log("Não vou nem almoçar, alexsandro o brabo")
 }else{ // senão
     console.log("Voce terá que almoçar")
@@ -49,7 +47,7 @@ let numero = 11
 if(numero % 2 == 0){
     console.log("O número " + numero + "é par ") //Concatenação 1
 }else{
-    console.log(`O numero ${numero} é impar`) // Concatenação 2 - ${numero} = Template String
+    console.log(`O numero ${numero} é impar`) // Concatenação 2 - ${numero} = Template String - Diferente do sinal de soma
 }
 
 console.clear
@@ -74,12 +72,19 @@ if(inscricao == true){
     console.log("Parabens voce está na fase 2")
     if(fase2 >= 70){
         console.log("Questionário de Lógica e Leitura")
-    }else if(fase2 >+ 65 || fase2 <= 69){
+    }else if(fase2 >=
+         65 || fase2 <= 69){
         console.log("Voce terá uma segunda chance")
     }else{
         console.log("Voce não passou na fase 2")
     }
 }
+
+console.clear
+
+
+
+
 
 
 

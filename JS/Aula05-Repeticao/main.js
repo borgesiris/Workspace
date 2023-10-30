@@ -3,7 +3,7 @@
 //Incremento                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 let conta1 = 1
 while(conta1 <= 10){ //true
-    console.log(`O numero do conta1 é ${conta1}`)
+    console.log(`O numero da conta1 é ${conta1}`)
     conta1++;
 }
 

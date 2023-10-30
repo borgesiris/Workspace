@@ -10,7 +10,7 @@ if(professoraBateAluno == true && professoraXingaAluno == true){
     console.log("Professora demitida com sucesso!")
 }
 
-console.clear()
+console.clear
 
 //      true                   ||(OU)     false         == true - (Explicação- Resultado "true" porque OU - || quando recebe uma validação TRUE o resultado final independemente de quantos falses receba se torna TRUE)
 if(professoraBateAluno == true || professoraXingaAluno == true){
@@ -56,7 +56,7 @@ let morangoMaduro = null // vazio
 
 if(morangoMaduro == true){
     console.log("Pode comer")
-}else if(morangomaduro == false){
+}else if(morangoMaduro == false){
     console.log("Não come")
 }else{
     console.log("Seu morango está mofado")

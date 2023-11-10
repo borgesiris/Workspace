@@ -17,7 +17,8 @@ let buscaClasse = document.getElementsByClassName('item')
 // buscaClasse[3].style.color = 'blue'
 
 
-     //2- Percorrendo todos, olhando a posição e aplicando backgroundColor
+     //2- Percorrendo todos usando 'for', olhando a posição e aplicando backgroundColor
+     
 //Ex: Percorra a lista, altere a posição e a cor do texto
 for(let c = 0; c <=buscaClasse.length; c++){ //c = contador
 //Colocando a cor nos itens 

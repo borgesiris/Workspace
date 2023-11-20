@@ -1,0 +1,19 @@
+React: 
+React é uma biblioteca JavaScript para construir interfaces de usuário. Desenvolvido pelo Facebook, ele permite a criação de componentes reutilizáveis para construir interfaces de usuários interativos.
+Link:  https://www.alura.com.br/artigos/react-js?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=681579447483&hsa_src=g&hsa_tgt=dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMrIAgqFhqZOzmPNNf6ysRSlYCAAUUYZDJCgDamyOH25Z3GUcbT7WE8aAuo9EALw_wcB
+
+Diferença entre biblioteca e Framework: 
+Uma biblioteca é um conjunto de funções e rotinas que podem ser reutilizadas por um programa, enquanto um framework é uma estrutura mais abrangente que define a estrutura de um programa e dita como certas tarefas devem ser realizadas.
+Link: https://www.dio.me/articles/framework-vs-biblioteca-qual-a-diferenca-e-como-escolher-a-melhor-opcao-para-seu-projeto
+
+Props: 
+Props, ou propriedades, são utilizados para passar dados de um componente pai para um componente filho no React. São usados para transmitir informações entre componentes.
+Link: https://www.freecodecamp.org/portuguese/news/react-js-para-iniciantes-props-e-state-explicados/#:~:text=React%20para%20iniciantes.-,O%20que%20s%C3%A3o%20props%3F,pai%20para%20o%20componente%20filho).
+
+Hooks: 
+Hooks são funções especiais no React que permitem o uso de estado e outras características do React em componentes funcionais, que anteriormente eram limitados aos componentes de classe.
+Link: https://www.alura.com.br/artigos/react-hooks?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=681579447483&hsa_src=g&hsa_tgt=aud-527303763294:dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMqSpsxuRffBLPDjZNI5vaGERUKq_1qeA8JsBSQBNnRPEIel6I-glM4aAqclEALw_wcB
+
+Componentes: 
+Componentes são blocos de construção reutilizáveis no React, que podem ser compostos para formar interfaces de usuário. Eles podem ser de dois tipos: funcionais (baseados em funções) ou de classe.
+Link: https://pt-br.legacy.reactjs.org/docs/components-and-props.html#:~:text=Conceitualmente%2C%20componentes%20s%C3%A3o%20como%20fun%C3%A7%C3%B5es,que%20deve%20aparecer%20na%20tela.
